@@ -1,0 +1,26 @@
+{
+  "name": "dev_nomad",
+  "version": "0.0.1",
+  "description": "Backend Javascript SOLID Clean Architeture Engine Infrastructure",
+  "keywords": [
+    "turma12"
+  ],
+  "homepage": "https://github.com/L0PESS/dev_nomad#readme",
+  "bugs": {
+    "url": "https://github.com/L0PESS/dev_nomad/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L0PESS/dev_nomad.git"
+  },
+  "license": "MIT",
+  "author": "Leandro Ferreira",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "firebase": "^12.18.0"
+  }
+}
